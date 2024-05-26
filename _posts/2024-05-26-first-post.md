@@ -1,13 +1,13 @@
 ---
 layout: post
-title: First Post
+title: How to Prevent Unwanted Back Navigation in Flutter
 date: 2024-05-26 11:23 +0300
 categories: [Software, Tech]
 tags: [all, important, test]
-description: Short summary of the post.
+description: Hello everyone, I would like to talk about an important case that should be considered while...
 ---
 
-# How to Prevent Unwanted Back Navigation in Flutter
+# Introduction
 Hello everyone, I would like to talk about an important case that should be considered while developing an application in Flutter. Sometimes in your app’s flow, you may want the user to complete a task on the current page. Although you do not offer a back option in the application, Android devices have a physical back button. If you ignore this, it may disrupt your entire flow and even cause your application to crash. In Flutter, the WillPopScope widget is used to handle this situation. This widget detects the user’s attempt to press the back button and provides the ability to handle this event in a customizable way.
 
 ### What is WillPopScope?
