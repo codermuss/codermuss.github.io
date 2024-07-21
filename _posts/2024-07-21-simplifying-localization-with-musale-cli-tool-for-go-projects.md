@@ -1,10 +1,10 @@
 ---
 layout: post
-title: simplifying-localization-with-musale-cli-tool-for-go-projects
+title: Dil Desteğini `musale` ile Basitleştirmek: Go Projeleri için Bir CLI Aracı ve Dil Yönetim Yaklaşımı
 date: 2024-07-21 15:30 +0300
 categories: [Go, Golang, Internationalization, Localization, Language]
 tags: [all, important, go, golang, language]
-description: Selamlar selamlarrrr, normalde bu blog'u ingilizce yazacaktım fakat...
+description: Dil Desteği, özellikle küresel bir kitleye hizmet eden uygulamalar oluştururken modern yazılım geliştirmenin...
 ---
 # Dil Desteğini `musale` ile Basitleştirmek: Go Projeleri için Bir CLI Aracı ve Dil Yönetim Yaklaşımı
 
