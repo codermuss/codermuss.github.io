@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dil Desteğini `musale` ile Basitleştirmek: Go Projeleri için Bir CLI Aracı ve Dil Yönetim Yaklaşımı
+title: Dil Desteğini musale ile Basitleştirmek
 date: 2024-07-21 15:30 +0300
 categories: [Go, Golang, Internationalization, Localization, Language]
 tags: [all, important, go, golang, language]
